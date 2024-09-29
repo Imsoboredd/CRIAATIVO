@@ -15,7 +15,7 @@ export default function Nav() {
           <div className='line'></div>
           <Link to="/">FAQ</Link>
           <div className='line'></div>
-          <Link to="/">ENTRAR</Link>
+          <Link to="/">ENTRAR               </Link>
         </div>
     </div>
   );
